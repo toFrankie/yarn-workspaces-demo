@@ -9,7 +9,6 @@
     "test": "node index.js"
   },
   "devDependencies": {
-    "prettier": "2.0.1",
     "@workspace/common": "1.0.0"
   }
 }

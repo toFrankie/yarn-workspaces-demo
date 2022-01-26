@@ -1,4 +1,4 @@
 export const config = {
-  name: 'Frankie',
-  age: 20
-}
+  name: "Frankie",
+  age: 20,
+};

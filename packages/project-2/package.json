@@ -4,9 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "prettier": "prettier --check ."
+    "prettier": "prettier --write ."
   },
-  "devDependencies": {
-    "prettier": "2.0.0"
-  }
+  "devDependencies": {}
 }

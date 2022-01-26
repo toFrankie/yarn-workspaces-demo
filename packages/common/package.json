@@ -4,5 +4,8 @@
   "main": "index.js",
   "module": "index.js",
   "type": "module",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write ."
+  }
 }

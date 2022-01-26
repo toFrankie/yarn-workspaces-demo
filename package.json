@@ -10,5 +10,8 @@
   "workspaces": [
     "packages/project-*",
     "packages/common"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
 }
