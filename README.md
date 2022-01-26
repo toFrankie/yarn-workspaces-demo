@@ -54,7 +54,7 @@ $ yarn workspace <workspace-name> add <package>
 
 可以看到，其中 `@workspace/project-1` 依赖了 `@workspace/common`，所以 `workspaceDependencies` 不为空。反之，没有引用的话就为空数组。
 
-假设，我们在 `project-1` 中引用了 common 中的导出模块，如下：
+假设，我们在 `project-1` 中引用了 `common` 中的导出模块，如下：
 
 ```js
 // packages/common/index.js
