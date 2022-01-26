@@ -1,1 +1,1 @@
-console.log("This is project-2.");
+console.log('This is project-2.')

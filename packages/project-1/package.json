@@ -9,6 +9,7 @@
     "test": "node index.js"
   },
   "devDependencies": {
-    "@workspace/common": "1.0.0"
+    "@workspace/common": "1.0.0",
+    "eslint": "^8.7.0"
   }
 }
